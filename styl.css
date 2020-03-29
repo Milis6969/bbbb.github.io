@@ -1,0 +1,245 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    ;
+}
+h1 {
+    text-align: center;
+    color: 	#8b4513;
+    -webkit-text-stroke: 1.5px black;
+}
+
+p {
+    text-align: center;
+}
+
+hr {
+    border: 2px solid black;
+   
+}
+
+
+
+a {
+    text-decoration: none;
+   
+}
+
+
+.prihlaseni {
+    text-align: right;
+    padding: 15px;
+}
+
+i {
+    padding: 110px;
+    font-size: 20px;
+}
+
+nav{
+    background-color: black;
+    display: flex;
+    padding: 8px 0;
+    color: white;;
+    
+}
+
+.menu {
+    color: green;
+    flex: 1;
+}
+
+.a2 {
+    padding: 10px;
+}
+
+.a1 {
+    padding: 10px;
+}
+.a3 {
+    padding: 10px;
+}
+.a4 {
+    padding: 10px;
+}
+
+.a5 {
+    padding: 10px;
+}
+
+.zbytek {
+    text-align: center;
+  
+   padding: 15px;
+}
+
+.kontejner {
+    border: 4px solid #a0522d;
+   margin: 5px;
+    display: flex;
+    padding: 35px;
+}
+
+a: link {
+    text-decoration: none;
+    color: black;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+    color: purple;
+}
+
+.podnadpis {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+
+
+ul {
+
+margin: 0;
+padding: 10px;
+}
+
+li{
+    display: inline;
+    padding: 10px;
+}
+
+nav ul{
+   
+    
+    padding: 2px;
+    margin: 12px;
+
+}
+
+.menicko {
+    background-color: #a0522d;
+    width: 255px;
+    border: 2px solid black;
+    margin: 6px;
+    
+}
+
+.menicko li a:hover {
+   color: orange;
+}
+
+main {
+    margin: 0px;
+}
+
+.dolnilista {
+    border: 2px solid black;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    color: White;
+    flex: 1;
+    font-size: 15px;
+   }
+
+   .mail
+   {
+       text-align: right;
+       border: 2px solid black;
+   }
+
+   .fb
+   {
+       text-align: center;
+       color: green;
+       flex: 1;
+   }
+
+   .ig {
+       text-align: center;
+       color: green;
+       flex: 1;
+   }
+
+   .gm {
+    text-align: center;
+    color: green;
+    flex: 1;
+}
+
+nav {
+   
+    background-color: black;
+    display: flex;
+    padding: 5px 0;
+    
+}
+
+h2 {
+    font-size: 50px;
+   text-align: center;
+    color: grey;
+  -webkit-text-stroke: 1.5px black;
+    
+}
+
+p {
+    padding: 100px 50px;
+    font-size: 25px;
+    border: 2px solid black;
+    background-color: white;
+    margin: 20px;
+}
+
+.uvodnik {
+    margin: 0px;
+}
+
+.kontejner2 {
+    border: 4px solid black;
+   margin: 20px;
+    display: flex;
+    padding: 35px;
+    width: 600px;
+    background-color: rgba(245, 220, 220, 0.664);
+}
+
+.obrazecek {
+    padding: 80px;
+
+}
+
+body{
+    background-color: gray;
+}
+table{
+    margin: 20px;
+    color: white; 
+    background-color: #7B3F00;
+    top:50%; 
+    left:50%; 
+    border: 1px solid white; 
+    border-collapse: collapse;
+}
+td{
+    padding: 10px; 
+    text-align: center
+}
+th{
+    font-size: 40px
+}
+.radky{
+    font-weight: bold; 
+    font-size: 40px
+}
+
