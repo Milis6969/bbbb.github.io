@@ -3,9 +3,13 @@ html, body {
     padding: 0;
     
 }
-body {
-    ;
+
+hr {
+    width: 1000px;
+    color: #a0522d;
+    border: 5px solid black;
 }
+
 h1 {
     text-align: center;
     color: 	#8b4513;
@@ -83,7 +87,7 @@ nav{
     padding: 35px;
 }
 
-a: link {
+a.link {
     text-decoration: none;
     color: black;
 }
