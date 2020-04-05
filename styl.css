@@ -15,7 +15,7 @@ hr {
 
 h1 {
     text-align: center;
-    color: 	#8b4513;
+    color:     #8b4513;
     -webkit-text-stroke: 1.5px black;
 }
 
@@ -25,14 +25,14 @@ p {
 
 hr {
     border: 2px solid black;
-   
+
 }
 
 
 
 a {
     text-decoration: none;
-   
+
 }
 
 
@@ -51,7 +51,7 @@ nav{
     display: flex;
     padding: 8px 0;
     color: white;;
-    
+
 }
 
 .menu {
@@ -79,13 +79,13 @@ nav{
 
 .zbytek {
     text-align: center;
-  
-   padding: 15px;
+
+    padding: 15px;
 }
 
 .kontejner {
     border: 4px solid #a0522d;
-   margin: 5px;
+    margin: 5px;
     display: flex;
     padding: 35px;
 }
@@ -116,8 +116,8 @@ nav a {
 
 ul {
 
-margin: 0;
-padding: 10px;
+    margin: 0;
+    padding: 10px;
 }
 
 li{
@@ -126,8 +126,8 @@ li{
 }
 
 nav ul{
-   
-    
+
+
     padding: 2px;
     margin: 12px;
 
@@ -138,11 +138,11 @@ nav ul{
     width: 255px;
     border: 2px solid black;
     margin: 6px;
-    
+
 }
 
 .menicko li a:hover {
-   color: orange;
+    color: orange;
 }
 
 main {
@@ -157,47 +157,47 @@ main {
     color: White;
     flex: 1;
     font-size: 15px;
-   }
+}
 
-   .mail
-   {
-       text-align: right;
-       border: 2px solid black;
-   }
+.mail
+{
+    text-align: right;
+    border: 2px solid black;
+}
 
-   .fb
-   {
-       text-align: center;
-       color: green;
-       flex: 1;
-   }
+.fb
+{
+    text-align: center;
+    color: green;
+    flex: 1;
+}
 
-   .ig {
-       text-align: center;
-       color: green;
-       flex: 1;
-   }
+.ig {
+    text-align: center;
+    color: green;
+    flex: 1;
+}
 
-   .gm {
+.gm {
     text-align: center;
     color: green;
     flex: 1;
 }
 
 nav {
-   
+
     background-color: black;
     display: flex;
     padding: 5px 0;
-    
+
 }
 
 h2 {
     font-size: 50px;
-   text-align: center;
+    text-align: center;
     color: grey;
-  -webkit-text-stroke: 1.5px black;
-    
+    -webkit-text-stroke: 1.5px black;
+
 }
 
 p {
@@ -214,7 +214,7 @@ p {
 
 .kontejner2 {
     border: 4px solid black;
-   margin: 20px;
+    margin: 20px;
     display: flex;
     padding: 35px;
     width: 600px;
@@ -232,22 +232,21 @@ body{
 table{
     border: 1px solid black;
     margin: 20px;
-    color: white; 
+    color: white;
     background-color: #7B3F00;
-    top:50%; 
-    left:50%; 
-    border: 1px solid white; 
+    top:50%;
+    left:50%;
     border-collapse: collapse;
 }
 td{
-    padding: 10px; 
+    padding: 10px;
     text-align: center
 }
 th{
     font-size: 40px
 }
 .radky{
-    font-weight: bold; 
+    font-weight: bold;
     font-size: 40px
 }
 
