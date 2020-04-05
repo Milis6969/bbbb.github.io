@@ -242,10 +242,11 @@ table{
 td{
     padding: 10px;
     text-align: center;
-    border: 1px solid black;
+
 }
 th{
     font-size: 40px
+    border: 1px solid black;
 }
 .radky{
     font-weight: bold;
